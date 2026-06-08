@@ -7,6 +7,9 @@ SQL is foundational to Snowflake, but layering relationship intelligence provide
 - Apply graph-based similarity
 - Build scalable, relationship-aware intelligence
 
+## Slides
+Here are [slides for the HOL](https://docs.google.com/presentation/d/11myEtebbpg81UsoNArrLv8ogjBYFbZ9PwZYCGtoYHDY/edit?usp=sharing).
+
 ## STEP 1 -- Create a Snowflake Account
 
 You will need a Snowflake account to participate in this lab. If you do not already have one, sign up for a free trial at:
